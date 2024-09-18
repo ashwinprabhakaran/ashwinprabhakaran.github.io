@@ -450,7 +450,7 @@ height: 650px;
 
 .top_left_cont h3 {
     font-size: 16px;
-    color: #962715;
+    color: #A5C05B;
     margin: 0 0 20px 0;
     text-align: left;
     font-weight: 700;
@@ -628,7 +628,7 @@ color:#fff;
 }
 
 .inner_section {
-    padding: 0px;
+    padding: 50px;
 }
 
 .service-list {
